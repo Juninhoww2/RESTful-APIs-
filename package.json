@@ -1,0 +1,11 @@
+{
+  "name": "RESTful-APIs-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Juninhoww2/RESTful-APIs-.git",
+  "author": "juninhoww2 <alqadianoKira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
